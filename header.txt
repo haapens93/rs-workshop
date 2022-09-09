@@ -1,5 +1,4 @@
-
 Some text for header
 Changes from <master> - new change - new changess
 
-
+add key SSH and check git bash 
